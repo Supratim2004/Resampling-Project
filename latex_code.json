@@ -1,0 +1,10 @@
+{
+    "Mean": {
+        "ChiSquare2": "\\begin{table}\n\\caption{Performance for  Statistic in  Distribution}\n\\label{tab:_Mean_ChiSquare2}\n\\begin{tabular}{c c c c c c}\n\\toprule\nn & Jackknife Avg & Jackknife SD & Boot Avg & Boot SD & Asymp \\\\\n\\midrule\n30 & 0.983000 & 0.486000 & 0.951000 & 0.473000 & 1.000000 \\\\\n70 & 0.971000 & 0.330000 & 0.957000 & 0.329000 & 0.986000 \\\\\n100 & 1.002000 & 0.291000 & 0.990000 & 0.292000 & 1.004000 \\\\\n\\bottomrule\n\\end{tabular}\n\\end{table}\n",
+        "Normal01": "\\begin{table}\n\\caption{Performance for  Statistic in  Distribution}\n\\label{tab:_Mean_Normal01}\n\\begin{tabular}{c c c c c c}\n\\toprule\nn & Jackknife Avg & Jackknife SD & Boot Avg & Boot SD & Asymp \\\\\n\\midrule\n30 & 1.007000 & 0.268000 & 0.973000 & 0.263000 & 1.010000 \\\\\n70 & 1.026000 & 0.172000 & 1.010000 & 0.174000 & 1.019000 \\\\\n100 & 0.994000 & 0.145000 & 0.986000 & 0.150000 & 0.988000 \\\\\n\\bottomrule\n\\end{tabular}\n\\end{table}\n"
+    },
+    "Median": {
+        "ChiSquare2": "\\begin{table}\n\\caption{Performance for  Statistic in  Distribution}\n\\label{tab:_Median_ChiSquare2}\n\\begin{tabular}{c c c c c c}\n\\toprule\nn & Jackknife Avg & Jackknife SD & Boot Avg & Boot SD & Asymp \\\\\n\\midrule\n30 & 1.993000 & 3.961000 & 1.221000 & 0.805000 & 1.030000 \\\\\n70 & 1.906000 & 5.001000 & 1.102000 & 0.616000 & 0.989000 \\\\\n100 & 2.005000 & 3.891000 & 1.111000 & 0.557000 & 1.015000 \\\\\n\\bottomrule\n\\end{tabular}\n\\end{table}\n",
+        "Normal01": "\\begin{table}\n\\caption{Performance for  Statistic in  Distribution}\n\\label{tab:_Median_Normal01}\n\\begin{tabular}{c c c c c c}\n\\toprule\nn & Jackknife Avg & Jackknife SD & Boot Avg & Boot SD & Asymp \\\\\n\\midrule\n30 & 1.988000 & 4.036000 & 1.186000 & 0.687000 & 1.065000 \\\\\n70 & 1.904000 & 3.958000 & 1.107000 & 0.517000 & 1.026000 \\\\\n100 & 1.863000 & 3.787000 & 1.074000 & 0.466000 & 1.004000 \\\\\n\\bottomrule\n\\end{tabular}\n\\end{table}\n"
+    }
+}
